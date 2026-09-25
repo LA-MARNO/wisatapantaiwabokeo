@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use App\Models\HeroSection;
 use Illuminate\Database\Seeder;
 
-class HeroSectionSeederHeroSectionSeeder extends Seeder
+class HeroSectionSeeder extends Seeder
 {
     public function run(): void
     {
